@@ -1,0 +1,21 @@
+{
+  "name": "front-end-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.7",
+    "chokidar": "^2.0.4",
+    "cssnano": "^4.1.8",
+    "del": "^3.0.0",
+    "eslint": "^5.13.0",
+    "node-sass": "^4.11.0",
+    "postcss": "^7.0.14",
+    "stylelint": "^9.10.1"
+  }
+}
