@@ -3,19 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "build.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^9.4.7",
-    "chokidar": "^2.0.4",
-    "cssnano": "^4.1.8",
-    "del": "^3.0.0",
-    "eslint": "^5.13.0",
-    "node-sass": "^4.11.0",
-    "postcss": "^7.0.14",
-    "stylelint": "^9.10.1"
+    "app-root-path": "^3.1.0",
+    "autoprefixer": "10.4.14",
+    "chokidar": "3.5.3",
+    "cssnano": "6.0.1",
+    "del": "7.0.0",
+    "eslint": "8.39.0",
+    "node-sass": "8.0.0",
+    "postcss": "7.0.14",
+    "stylelint": "15.6.0"
   }
 }
